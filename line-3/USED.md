@@ -1,0 +1,2 @@
+- Used the supplied `.imd/reads/artifacts/cave` PNG as the untouched-wall reference.
+- Used the built-in image generation editor to add the first Pepeolithic mark while retaining the rock wall.
