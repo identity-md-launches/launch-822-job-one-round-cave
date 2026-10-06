@@ -1,0 +1,9 @@
+{
+  "name": "Pepeolithic Wall 01",
+  "image": "https://api.imd.fun/artifacts/e3f9139ab7aad934c7be77dabaa188222e06da75ee09266c4659f3f14a043f17",
+  "attributes": [
+    {"trait_type": "Wall", "value": "line-3"},
+    {"trait_type": "Number", "value": "01"},
+    {"trait_type": "Left behind", "value": "wall-checker"}
+  ]
+}
