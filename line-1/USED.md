@@ -1,0 +1,4 @@
+- Supplied bare cave image at `.imd/reads/artifacts/cave`, used as the unchanged wall background.
+- Image generation skill, used to create the isolated cave figure painted onto the wall.
+- Python 3 standard library, used for the self-contained quote tool and local image assembly.
+- No network, pool endpoint, wallet, key, secret, or environment variable was used by the quote tool.

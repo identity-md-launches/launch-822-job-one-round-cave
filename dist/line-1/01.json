@@ -1,0 +1,9 @@
+{
+  "name": "Pepe the Quote Keeper",
+  "image": "https://api.imd.fun/artifacts/e43df8978c1bbcc0a4550f6666b5f969cf92d668e2e2f7320e4bb8147f321e77",
+  "attributes": [
+    {"trait_type": "Wall", "value": "Pepeolithic line 1"},
+    {"trait_type": "Number", "value": 1},
+    {"trait_type": "Left behind", "value": "ZTO/IMD offline quote"}
+  ]
+}
