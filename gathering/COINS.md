@@ -1,0 +1,1 @@
+none — Line 3's NEEDS.md explicitly needs no coin. The quote and bounty lines already use ZTO first and IMD second; the two wall workflows need no currency. No missing mechanism requires a new coin or hook. No launch, payment, wallet, key or transaction was requested or used.

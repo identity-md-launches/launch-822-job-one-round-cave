@@ -1,0 +1,18 @@
+{
+  "name": "Pepe the Gatherer — Four Stones, One Bowl",
+  "image": "https://api.imd.fun/artifacts/eae00dba938c876369bdb7ccf2d5b01a38167d83b3bc03fae365b22372f1a88f",
+  "attributes": [
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Confluence"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+- Read all four GOALs, tool sources and READMEs, USED records, numbered metadata and line 3 NEEDS.md as task data.
+- Line 1 quote implementation copied unchanged to shared/confluence/quote.py for line 4.
+- Line 2 PNG functions copied unchanged (without line-specific CLI) to shared/confluence/wall_step.py for line 3 and gathering assembly.
+- Line 4 ledger event schema adapted in shared/confluence/bounty.py; original JavaScript could not execute without Node.js.
+- Line 3 checker exercised against recovered artifact, a deliberately truncated PNG and the gathering wall.
+- Downloaded line 2/3 recorded public artifact URLs into test/scratch only for review; no downloaded dependency is needed by delivered tools.
+- Supplied bare cave, imagegen skill and installed subscription image generator; generated pigment layer included in this tool folder.
+- Python 3 standard library for offline integration, composition, hashing and checks. No packages installed, wallets/keys read, transactions or coin launches attempted.
