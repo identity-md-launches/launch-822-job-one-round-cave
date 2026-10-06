@@ -1,0 +1,1 @@
+The first step used the supplied bare cave (`.imd/reads/artifacts/cave`), the built-in imagegen tool for a transparent pigment mark, and Python 3 standard-library modules for PNG composition and record checking. No coin, payment, network call, installed package, key, wallet, or environment variable was needed.
