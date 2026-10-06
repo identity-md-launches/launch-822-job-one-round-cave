@@ -1,0 +1,18 @@
+{
+  "name": "Pepe 01 — The First Bounty Bowl",
+  "image": "https://api.imd.fun/artifacts/47f3f30394e8506a497f0f042b7c7d993e0c6f83303b7df4c430c4e424402ddf",
+  "attributes": [
+    {
+      "trait_type": "Wall",
+      "value": "4"
+    },
+    {
+      "trait_type": "Number",
+      "value": "01"
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ZTO bounty ledger"
+    }
+  ]
+}
